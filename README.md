@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Oggie112/Oggie112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Software developer passionate about full-stack development, currently deepening my expertise in Express and Node.js. 
 
