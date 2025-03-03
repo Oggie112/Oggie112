@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 
-Software developer passionate about full-stack development, currently deepening my expertise in Express and Node.js. 
+Passionate fullstack software developer with a background in the legal sector as an Ombudsman. I developed strong analytical and problem-solving skills while working in a high pressure workplace with tricky clients. My shift into tech stemmed from a love of building, fixing, and creating — whether on a computer or in real life. 
 
-I have previously worked in the legal sector after studying History and Law at university, where I developed strong analytical and problem-solving skills. My shift into tech stems from a love of building, fixing, and creating — whether on a computer or in real life. 
-
-Currently training with Founders & Coders, I’m looking forward to contributing to interesting projects and collaborating with other developers. 
 
 - 🔭 I’m currently working on a Media recommnedation app
 - 🌱 I’m currently learning Node.js, Express, OpenAi
