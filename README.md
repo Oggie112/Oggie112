@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Passionate fullstack software developer with a background in the legal sector as an Ombudsman. I developed strong analytical and problem-solving skills while working in a high pressure workplace with tricky clients. My shift into tech stemmed from a love of building, fixing, and creating — whether on a computer or in real life. 
+Passionate fullstack software developer with a background in the legal sector as an Ombudsman. I developed strong analytical skills and inter-personal skills while working in a high pressure workplace with challenging client dynamics. My shift into tech stemmed from a love of building, problem-solving, and creating.
 
 
 - 🔭 I’m currently working on a Media recommnedation app
