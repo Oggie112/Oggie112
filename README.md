@@ -12,5 +12,5 @@ Passionate fullstack software developer with a background in the legal sector as
 - 😄 Pronouns: He/Him
 ---
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oggie112&theme=tokyonight)](https://github.com/Oggie112/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oggie112&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Oggie112&theme=tokyonight" width="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oggie112&size_weight=0.5&count_weight=0.5&theme=tokyonight" width="50%" align="center">
