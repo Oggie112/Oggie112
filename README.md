@@ -1,6 +1,6 @@
 # Hi there, I'm David 👋
 
-Passionate fullstack software developer with a background in the legal sector as an Ombudsman. I developed strong analytical skills and inter-personal skills while working in a high pressure workplace with challenging client dynamics. My shift into tech stemmed from a love of building and creating things around the house. The problem-solving process I enjoy in DIY projects translates directly into coding, where I find the same satisfaction in bringing ideas to life.
+“Full-stack software developer with a unique background as an Ombudsman. My transition into tech was sparked by a passion for building — from hands-on DIY projects to interactive software applications. Strong analytical and interpersonal skills from working in high-pressure, client-facing environments. Driven by solving problems, listening to users, and turning ideas into real-life products.”
 
 ## My Tech Stack
 ![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
