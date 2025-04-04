@@ -11,7 +11,7 @@ Passionate fullstack software developer with a background in the legal sector as
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Projects  
+## Check out a couple of projects! 🚀
 
 | ![Image](https://github.com/user-attachments/assets/58536a1a-5085-4894-b1af-ee70e8c87cae) | ![Image](https://github.com/user-attachments/assets/b1b825bd-e273-4634-a8a7-8760d3445e8d) |
 |:---:|:---:|
