@@ -15,7 +15,7 @@ Passionate fullstack software developer with a background in the legal sector as
 
 | ![Image](https://github.com/user-attachments/assets/58536a1a-5085-4894-b1af-ee70e8c87cae) | ![Image](https://github.com/user-attachments/assets/b1b825bd-e273-4634-a8a7-8760d3445e8d) |
 |:---:|:---:|
-| **Wordle** - A recreation of Wordle using Typecript, Tailwind & Html.  | **Tarotation App** - A fun media recommendation app using OpenAi, Node.Js, Express, Javascript & Tailwind. Deliberately built with restrictions such as no frontend frameworks or database |
+| **Wordle** - A recreation of Wordle using Typecript, Tailwind & Html.  | **Tarotation App** - A fun media recommendation app using OpenAi, Node.Js, Express, Javascript & Tailwind created as part of a team. Deliberately built with restrictions such as no frontend frameworks or database. |
 
 ## I'm currently researching
 
