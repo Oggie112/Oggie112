@@ -13,9 +13,23 @@ Passionate fullstack software developer with a background in the legal sector as
 
 ## 🚀 Projects  
 
-| [![Project 1](https://via.placeholder.com/300x200)](https://github.com/yourusername/project1) | [![Project 2](https://via.placeholder.com/300x200)](https://github.com/yourusername/project2) |
+| ![Image](https://github.com/user-attachments/assets/58536a1a-5085-4894-b1af-ee70e8c87cae) | ![Image](https://github.com/user-attachments/assets/b1b825bd-e273-4634-a8a7-8760d3445e8d) |
 |:---:|:---:|
-| **Project 1** - A brief description of what it does, tech used, and key features. | **Project 2** - A brief description of what it does, tech used, and key features. |
+| **Wordle** - A recreation of Wordle using Typecript, Tailwind & Html.  | **Tarotation App** - A fun media recommendation app using OpenAi, Node.Js, Express, Javascript & Tailwind. Deliberately built with restrictions such as no frontend frameworks or database |
+
+## I'm currently researching
+
+- TailwindCss in order to write cleaner, quicker and more concise code
+- MongoDB and how it relates to SQL and PostgreSQL and why one might be preferred over another
+- Pyhton simply becasuse I enjoy it
+  
+---
+
+## I'm reading / watching
+
+- Lamentation by C.J Sansom
+- The Farseer Trilogy by Robin Hobb
+- The 3 body problem
 
 ## My Github Stats
 <p align="center">
@@ -23,11 +37,3 @@ Passionate fullstack software developer with a background in the legal sector as
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oggie112&size_weight=0.5&count_weight=0.5&theme=tokyonight" width="50%">
 </p>
-
-
-- 🌱 I’m currently learning Node.js, Express, OpenAi
-- 💬 Ask me about any bit of History that you're interested in. I'd love to learn about it.
-
----
-
-
